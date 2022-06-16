@@ -27,7 +27,7 @@ jobs:
           # Options
           user: ClemontX
           template: terminal
-          base: header, activity, community
+          base: header, activity
           config_timezone: Europe/Berlin
           plugin_pagespeed: yes
           plugin_pagespeed_url: sander.run
