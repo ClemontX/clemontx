@@ -27,13 +27,10 @@ jobs:
           # Options
           user: ClemontX
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           config_timezone: Europe/Berlin
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_lines: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: sander.run
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_selector: body
