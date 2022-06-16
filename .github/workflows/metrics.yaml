@@ -45,7 +45,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: sander.run
           plugin_repositories: yes
           plugin_screenshot: yes
           plugin_screenshot_background: yes
