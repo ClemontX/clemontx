@@ -27,7 +27,7 @@ jobs:
           # Options
           user: ClemontX
           template: terminal
-          base: header, activity
+          base: header
           config_timezone: Europe/Berlin
           plugin_pagespeed: yes
           plugin_pagespeed_url: sander.run
@@ -35,5 +35,3 @@ jobs:
           plugin_screenshot_background: yes
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
-          plugin_stars: yes
-          plugin_stars_limit: 4
