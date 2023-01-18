@@ -39,7 +39,7 @@
 </div>
 <div class="stdin"><span class="ps1-path">clemontx@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://sander.run</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://sander.run
-<b>X-Performance</b>: 89%
+<b>X-Performance</b>: 88%
 <b>X-Accessibility</b>: 86%
 <b>X-Best-Practices</b>: 75%
 <b>X-SEO</b>: 90%
