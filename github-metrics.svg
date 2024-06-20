@@ -39,10 +39,10 @@
 </div>
 <div class="stdin"><span class="ps1-path">clemontx@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://sander.run</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://sander.run
-<b>X-Performance</b>: 95%
-<b>X-Accessibility</b>: 84%
-<b>X-Best-Practices</b>: 78%
-<b>X-SEO</b>: 83%
+<b>X-Performance</b>: 100%
+<b>X-Accessibility</b>: 71%
+<b>X-Best-Practices</b>: 96%
+<b>X-SEO</b>: 36%
 </div>
 
 <div class="stdin"><span class="ps1-path">clemontx@metrics</span>:<span class="ps1-location">~</span>$ wget </div><div class="stdout"><img class="screenshot autosize" src="" height="" width="" alt="" /></div>
