@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://dev.sander.run"><img src="https://img.shields.io/badge/Website-dev.sander.run-2c5364?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://sander.run"><img src="https://img.shields.io/badge/Website-sander.run-2c5364?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/carl-dominik-sander/"><img src="https://img.shields.io/badge/LinkedIn-Carl%20Dominik%20Sander-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/ClemontX/"><img src="https://img.shields.io/badge/Instagram-@ClemontX-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <img src="https://komarev.com/ghpvc/?username=ClemontX&color=2c5364&style=flat-square&label=Profile+views" alt="Profile views" />
